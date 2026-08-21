@@ -2,7 +2,7 @@ package dsa.dp;
 
 import java.util.HashMap;
 
-public class CanConstruct {
+public class CanConstructTabulation {
     static HashMap<String, Boolean> map = new HashMap<>();
 
     public static void main(String[] args) {
